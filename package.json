@@ -1,0 +1,15 @@
+{
+  "name": "sortedset",
+  "version": "0.0.1",
+  "description": "A package that contains an implementation of Skip Lists based on Redis Sorted Set implementation",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Schineller <rjs@rjsiii.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "typescript": "^4.6.2"
+  }
+}
